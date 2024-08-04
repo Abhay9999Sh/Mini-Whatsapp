@@ -29,7 +29,6 @@ Routes:
 5. GET /chats/:id/edit: Renders a form to edit an existing chat message.
 6. PUT /chats/:id: Updates the specified chat message.
 7. DELETE /chats/:id: Deletes the specified chat message.
-8. GET /: A root route for testing the server.
    
 Error Handling:
 
